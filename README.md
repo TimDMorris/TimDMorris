@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tim</h1>
-<h3 align="center">A web frontend developer from Cambridge in the UK</h3>
+<h3 align="center">professional UI geek, UX aficionado, cutter of code from Cambridge in the UK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timdmorris&label=Profile%20views&color=0e75b6&style=flat" alt="timdmorris" /> </p>
 
