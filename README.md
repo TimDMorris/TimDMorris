@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/TimDMorris](https://github.com/TimDMorris)
 
-- 💬 Ask me about **Angular, Nrwl Nx**
+- 💬 Ask me about **Angular, Nrwl Nx, TypeScript, UI Design**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/timdmorris/](https://www.linkedin.com/in/timdmorris/)
 
