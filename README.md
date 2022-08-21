@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/timdmorris" target="blank"><img src="https://img.shields.io/twitter/follow/timdmorris?logo=twitter&style=for-the-badge" alt="timdmorris" /></a> </p>
 
-- 🔭 I’m currently working on [Ng.Guitar](https://github.com/TimDMorris/ng-guitar)
+- 🔭 I’m currently working on [Ng.Guitar](https://github.com/CambridgeMonorail/ng-guitar)
 
-- 🌱 I’m currently learning **Web Audio**
+- 🌱 I’m currently learning **Web Audio**, [React](https://github.com/TimDMorris/InWhichILearnReact)
 
 - 👨‍💻 All of my projects are available at [https://github.com/TimDMorris](https://github.com/TimDMorris)
 
