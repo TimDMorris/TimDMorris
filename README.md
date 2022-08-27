@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tim</h1>
-<h3 align="center">professional UI geek, UX aficionado, cutter of code from Cambridge in the UK</h3>
+<h3 align="center">I'm a professional UI geek and UX aficionado from Cambridge in the UK. This is where I experiment and learn new things.</h3>
+
+<div>
+<p>In my day job I build modern UI for the web, using Typescript, mono-repo patterns and modern web tooling to deliver robust and scalable solutions that deliver value for customers.</p>
+
+<p>With a background in both Development and Cognitive Science I specialize in delivering ergonomic, user-centric products for large scale use.</p>
+
+<p>I've worked across multiple industries and roles accumulating a breadth of skills and depth of knowledge in UI development, UX design, and application delivery.</p>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timdmorris&label=Profile%20views&color=0e75b6&style=flat" alt="timdmorris" /> </p>
 
@@ -9,7 +17,7 @@
 
 - 🔭 I’m currently working on [Ng.Guitar](https://github.com/CambridgeMonorail/ng-guitar)
 
-- 🌱 I’m currently learning **Web Audio**, [React](https://github.com/TimDMorris/InWhichILearnReact)
+- 🌱 I’m currently learning **Web Audio** and [React by building stuff with it.](https://github.com/TimDMorris/InWhichILearnReact)
 
 - 👨‍💻 All of my projects are available at [https://github.com/TimDMorris](https://github.com/TimDMorris)
 
