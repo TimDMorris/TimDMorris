@@ -2,7 +2,7 @@
 <h3 align="center">I'm a professional UI geek and UX aficionado from Cambridge in the UK. This is where I experiment and learn new things.</h3>
 
 <div>
-<p>In my day job I build modern UI for the web, using Typescript, mono-repo patterns and modern web tooling to deliver robust and scalable solutions that deliver value for customers.</p>
+<p>In my day job I build modern UI for the web, using React, Typescript, mono-repo patterns and modern web tooling to deliver robust and scalable solutions that deliver value for customers.</p>
 
 <p>With a background in both Development and Cognitive Science I specialize in delivering ergonomic, user-centric products for large scale use.</p>
 
