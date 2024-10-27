@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://twitter.com/timdmorris" target="blank"><img src="https://img.shields.io/twitter/follow/timdmorris?logo=twitter&style=for-the-badge" alt="timdmorris" /></a> </p>
 
-- 🔭 I’m currently working on [Ng.Guitar](https://github.com/CambridgeMonorail/ng-guitar)
+- 🔭 I’m currently working on [RiffRoll](https://github.com/CambridgeMonorail/RiffRoll).
 
 - 🌱 I’m currently learning **Web Audio** and [React by building stuff with it.](https://github.com/TimDMorris/InWhichILearnReact)
 
