@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://twitter.com/timdmorris" target="blank"><img src="https://img.shields.io/twitter/follow/timdmorris?logo=twitter&style=for-the-badge" alt="timdmorris" /></a> </p>
 
-- 🔭 I’m currently working on [An open-source boilerplate designed to simplify the development of single-page React applications (SPAs). By leveraging Nx, Tailwind CSS, and Shadcn UI, this project offers developers a seamless and efficient starting point for building modern front-end applications. It is ideal for those who prefer not to use Next.js or cannot use it but still want the benefits of this powerful toolset.]([https://github.com/CambridgeMonorail/RiffRoll](https://github.com/CambridgeMonorail/react-weapons-of-choice)).
+- 🔭 I’m currently working on [an open-source boilerplate designed to simplify the development of single-page React applications.](https://github.com/CambridgeMonorail/react-weapons-of-choice).
 
 - 👨‍💻 All of my projects are available at [https://github.com/TimDMorris](https://github.com/TimDMorris)
 
