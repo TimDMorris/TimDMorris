@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://twitter.com/timdmorris" target="blank"><img src="https://img.shields.io/twitter/follow/timdmorris?logo=twitter&style=for-the-badge" alt="timdmorris" /></a> </p>
 
-- 🔭 I’m currently working on [an open-source boilerplate designed to simplify the development of single-page React applications.](https://github.com/CambridgeMonorail/react-weapons-of-choice).
+- 🔭 I’m currently working on [Huckleberry a VS Code task management extension for Copilot.](https://cambridgemonorail.github.io/vscode-huckleberry/).
 
 - 👨‍💻 All of my projects are available at [https://github.com/TimDMorris](https://github.com/TimDMorris)
 
